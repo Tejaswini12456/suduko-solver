@@ -1,2 +1,2 @@
-# suduko-solver
+# Login and registration system
 @Codealpha
